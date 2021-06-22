@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 ### Back
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 
+### Deploy
+
 ### Algorithm
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0r0l)](https://solved.ac/0r0l)
