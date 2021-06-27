@@ -27,8 +27,21 @@ Here are some ideas to get you started:
 ### Deploy
 
 ### Algorithm
+
+**백준**
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0r0l)](https://solved.ac/0r0l)
+
+**프로그래머스**
+level1 : 53/59
+level2 : 
+level3 :
+level4 :
+level5 :
+
+[알고리즘](https://github.com/0r0loo/algorithm)
+
+
 
 ### Project
 
