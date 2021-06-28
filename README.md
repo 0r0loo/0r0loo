@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 **프로그래머스**</br>
 level1 : 53/59 </br>
-level2 :  </br>
+level2 : 8/67 </br>
 level3 : </br>
 level4 : </br>
 level5 : </br>
