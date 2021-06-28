@@ -39,7 +39,7 @@ level3 : </br>
 level4 : </br>
 level5 : </br>
 </br>
-[알고리즘](https://github.com/0r0loo/algorithm)
+[알고리즘풀이저장소](https://github.com/0r0loo/algorithm)
 
 
 
