@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 ### Algorithm
 
+[알고리즘 풀이 레퍼지토리](https://github.com/0r0loo/algorithm)
+
 **백준** </br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0r0l)](https://solved.ac/0r0l)
@@ -39,7 +41,7 @@ level3 : </br>
 level4 : </br>
 level5 : </br>
 </br>
-[알고리즘풀이저장소](https://github.com/0r0loo/algorithm)
+
 
 
 
