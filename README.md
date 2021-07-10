@@ -1,4 +1,4 @@
-## Taegyu Cho 👋
+## Taegyu Cho 😎
 
 <!--
 **0r0loo/0r0loo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
