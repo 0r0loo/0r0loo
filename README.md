@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ### Web Developer 
 ✨ <b>Language</b> <br/>
-<code><img alt="JavaScript" height="40" src="https://user-images.githubusercontent.com/47877911/88287732-af825c80-cd2d-11ea-9a56-bf85549e3fc4.png"></code>    
-<code><img alt="TypeScript" height="40" src="https://user-images.githubusercontent.com/47877911/107913658-2c17a980-6fa4-11eb-854b-d85d0a0a9148.png"></code>
+<code><img alt="JavaScript" height="40" src="https://user-images.githubusercontent.com/47877911/88287732-af825c80-cd2d-11ea-9a56-bf85549e3fc4.png"></code> <code><img alt="TypeScript" height="40" src="https://user-images.githubusercontent.com/47877911/107913658-2c17a980-6fa4-11eb-854b-d85d0a0a9148.png"></code>
 
 
 
