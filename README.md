@@ -41,8 +41,10 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0r0l)](https://solved.ac/0r0l)
 
 **프로그래머스**</br>
-level1 : 55/59 </br>
-level2 : 21/67 </br>
+
+21.08.10 기준 </br>
+level1 : 55/60 </br>
+level2 : 35/68 </br>
 level3 : </br>
 level4 : </br>
 level5 : </br>
