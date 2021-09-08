@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 **프로그래머스**</br>
 
-21.08.10 기준 </br>
-level1 : 55/60 </br>
-level2 : 35/68 </br>
+21.09.08 기준 </br>
+level1 : 59/60 </br>
+level2 : 37/68 </br>
 level3 : </br>
 level4 : </br>
 level5 : </br>
