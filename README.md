@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 AWS(EC2, S3, RDS)
 
 ### Study
-[정리](https://bit.ly/3tFnuOw)
+[정리링크](https://bit.ly/3tFnuOw)
 
 ### Algorithm
 
@@ -48,13 +48,9 @@ AWS(EC2, S3, RDS)
 
 **프로그래머스**</br>
 
-21.09.08 기준 </br>
-level1 : 59/60 </br>
-level2 : 37/68 </br>
-level3 : </br>
-level4 : </br>
-level5 : </br>
-</br>
+21.09.15</br>
+해결한 문제수 : 104 </br>
+획득한 점수 : 1384 </br>
 
 
 
