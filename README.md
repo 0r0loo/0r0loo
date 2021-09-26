@@ -65,17 +65,20 @@ AWS(EC2, S3, RDS)
   
 <hr/>
 
+
+### ETC
+![0r0loo's GitHub stats](https://github-readme-stats.vercel.app/api?username=0r0loo&show_icons=true&theme=material-palenight) 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0r0loo&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p align="center">
   <a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/get?user=0r0loo&theme=Rainbow-mini" width = "300" height = "auto"/>
+    <img src="http://commitcombo.com/get?user=0r0loo&theme=Rainbow-mini" width = "250" height = "auto"/>
   </a>
-</p>
-
-
-![0r0loo's GitHub stats](https://github-readme-stats.vercel.app/api?username=0r0loo&show_icons=true&theme=material-palenight)
-
-
-
+</p>  
+  
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0r0loo&count_bg=%239C88FF&title_bg=%238C7AE6&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
