@@ -61,5 +61,12 @@ AWS(EC2, S3, RDS)
 노션 이력서 
 
 
+<p align="center">
+  <a href="https://github.com/devxb/CommitCombo">
+    <img src="http://commitcombo.com/get?user=0r0loo&theme=Rainbow-mini"/>
+  </a>
+</p>
+
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0r0loo&count_bg=%239C88FF&title_bg=%238C7AE6&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
