@@ -46,17 +46,29 @@ AWS(EC2, S3, RDS)
 
 [알고리즘 풀이 레퍼지토리](https://github.com/0r0loo/algorithm)
 
+  
+
+  
 **백준** </br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0r0l)](https://solved.ac/0r0l)
+
+  
 
 **프로그래머스**</br>
 
 21.09.15</br>
 해결한 문제수 : 104 </br>
 획득한 점수 : 1384 </br>
+  
 
 
+
+<div align="right">
+
+
+
+</div>
 
 
 ### Project
@@ -70,6 +82,9 @@ AWS(EC2, S3, RDS)
     <img src="http://commitcombo.com/get?user=0r0loo&theme=Rainbow-mini"/>
   </a>
 </p>
+
+
+![0r0loo's GitHub stats](https://github-readme-stats.vercel.app/api?username=0r0loo&show_icons=true&theme=material-palenight)
 
 
 
