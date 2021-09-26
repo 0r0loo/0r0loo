@@ -1,4 +1,6 @@
 
+<div align="center">
+
 ## Taegyu Cho 😎
 
 <!--
@@ -18,19 +20,23 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 -->
 
-### Web Developer 
+
+<p align="center">
+  
+### Web Developer
 ✨ <b>Language</b> <br/>
 <br/>
 <code><img alt="JavaScript" height="40" src="https://user-images.githubusercontent.com/47877911/88287732-af825c80-cd2d-11ea-9a56-bf85549e3fc4.png"></code> <code><img alt="TypeScript" height="40" src="https://user-images.githubusercontent.com/47877911/107913658-2c17a980-6fa4-11eb-854b-d85d0a0a9148.png"></code>
 
+</p>
 
 
 
-### Front
+### Front-end
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Styled-Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 
-### Back
+### Back-end
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 
 ### Deploy
@@ -69,8 +75,8 @@ AWS(EC2, S3, RDS)
 </p>
 
 
-<p align="center">
+
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0r0loo&count_bg=%239C88FF&title_bg=%238C7AE6&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</p>
+
+</div>
