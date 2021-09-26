@@ -38,15 +38,17 @@ Here are some ideas to get you started:
 
 ### Deploy
 AWS(EC2, S3, RDS)
+  
+<hr/>
 
 ### Study
 [정리링크](https://bit.ly/3tFnuOw)
 
+<hr/>  
+ 
 ### Algorithm
 
 [알고리즘 풀이 레퍼지토리](https://github.com/0r0loo/algorithm)
-
-  
 
   
 **백준** </br>
@@ -61,25 +63,11 @@ AWS(EC2, S3, RDS)
 해결한 문제수 : 104 </br>
 획득한 점수 : 1384 </br>
   
-
-
-
-<div align="right">
-
-
-
-</div>
-
-
-### Project
-
-### Resume
-노션 이력서 
-
+<hr/>
 
 <p align="center">
   <a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/get?user=0r0loo&theme=Rainbow-mini"/>
+    <img src="http://commitcombo.com/get?user=0r0loo&theme=Rainbow-mini" width = "300" height = "auto"/>
   </a>
 </p>
 
