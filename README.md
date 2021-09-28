@@ -59,10 +59,9 @@ AWS(EC2, S3, RDS)
 
 **프로그래머스**</br>
 
-21.09.15</br>
-해결한 문제수 : 104 </br>
-획득한 점수 : 1384 </br>
-  
+21.09.28</br>
+ <img width="380" alt="스크린샷 2021-09-28 오후 11 45 13" src="https://user-images.githubusercontent.com/49504411/135110583-4d249e39-e1c7-4518-a34d-37dc52fb8c59.png">
+
 <hr/>
 
 
