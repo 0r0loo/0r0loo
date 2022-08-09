@@ -71,13 +71,13 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0r0loo&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 <p align="center">
   <a href="https://github.com/devxb/CommitCombo">
     <img src="http://commitcombo.com/get?user=0r0loo&theme=Rainbow-mini" width = "250" height = "auto"/>
   </a>
 </p>  
-  
+ -->
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0r0loo&count_bg=%239C88FF&title_bg=%238C7AE6&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
