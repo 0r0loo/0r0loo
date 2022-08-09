@@ -3,24 +3,6 @@
 
 ## Taegyu Cho 😎
 
-<!--
-**0r0loo/0r0loo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
--->
-
-
   
 ### Web Developer
 ✨ <b>Language</b> <br/>
@@ -40,10 +22,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"/>
   
 <hr/>
-
+<!--
 ### Study
 [정리링크](https://bit.ly/3tFnuOw)
-
+-->
 <hr/>  
  
 ### Algorithm
@@ -66,11 +48,12 @@ Here are some ideas to get you started:
 
 
 ### ETC
+<!--
 ![0r0loo's GitHub stats](https://github-readme-stats.vercel.app/api?username=0r0loo&show_icons=true&theme=material-palenight) 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0r0loo&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 <p align="center">
   <a href="https://github.com/devxb/CommitCombo">
