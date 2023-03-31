@@ -56,7 +56,7 @@ AWS
 
 
 ### ETC
-![0r0loo github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=0r0loo)
+![0r0loo github-stats](https://stats.hyochan.dev/api/github-stats?login=0r0loo)
 
 
 <!--
