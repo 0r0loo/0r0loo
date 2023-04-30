@@ -23,8 +23,8 @@ React, Next, Redux(tool-kit), Recoil, Tanstack-Query
 Nest, TypeORM, MySQL
 <!-- <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> -->
 
-### Deploy
-AWS
+### Cloud
+AWS, GCP
 <!-- <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"/> -->
   
 
