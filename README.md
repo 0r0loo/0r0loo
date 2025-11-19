@@ -16,6 +16,9 @@ I'm passionate about developer experience and building tools that boost producti
   Just hit a shortcut and log like a pro – with context-aware messages that make debugging easier than ever.
 
 ---
+[![My Skills](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev)
+
+---
 
 Feel free to check out my work or reach out for collaboration!
 
