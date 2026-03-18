@@ -14,7 +14,7 @@ I like building tools that make development faster.
   수련 일지, 기술 노트, 출석 통계, 벨트 관리까지. 주짓수 수련생을 위한 올인원 기록 앱.<br/>
   All-in-one training log app for BJJ practitioners — diary, technique notes, stats & belt tracking.
 
-- **[@grannyshot/ui — 디자인 시스템](https://choblue-docs-ui.grannyshot.co.kr/)**
+- **[choblue/ui — 디자인 시스템](https://choblue-docs-ui.grannyshot.co.kr/)**
   React 컴포넌트 라이브러리. Tailwind CSS v4, CVA 패턴 기반.<br/>
   React component library built with Tailwind CSS v4 and CVA patterns.
 
