@@ -10,6 +10,14 @@ I like building tools that make development faster.
 
 ### Projects
 
+- **[오주완 — 주짓수 수련 기록 앱](https://ojuwan.grannyshot.co.kr/landing)**
+  수련 일지, 기술 노트, 출석 통계, 벨트 관리까지. 주짓수 수련생을 위한 올인원 기록 앱.<br/>
+  All-in-one training log app for BJJ practitioners — diary, technique notes, stats & belt tracking.
+
+- **[@grannyshot/ui — 디자인 시스템](https://choblue-docs-ui.grannyshot.co.kr/)**
+  React 컴포넌트 라이브러리. Tailwind CSS v4, CVA 패턴 기반.<br/>
+  React component library built with Tailwind CSS v4 and CVA patterns.
+
 - **[claude-code-toolkit](https://github.com/0r0loo/my-claude-code-toolkit)**
   Claude Code용 설정 툴킷. 에이전트, 스킬, Hook을 한 번에 설치해서 코드 품질을 잡아줍니다.<br/>
   Configuration toolkit for Claude Code — agents, skills, and hooks in one install.
