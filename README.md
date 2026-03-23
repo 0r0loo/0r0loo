@@ -32,7 +32,7 @@ I like building tools that make development faster.
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,postgres,aws)](https://skillicons.dev)
 
 <a href="https://github.com/devxb/gitanimals">
   <img
